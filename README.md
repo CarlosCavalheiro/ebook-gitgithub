@@ -12,8 +12,7 @@ Bem-vindo ao repositório "Gerenciando o Código no Aranhaverso: Git e GitHub"! 
 - [Usando GitHub](#usando-github)
 - [Criando Pull Requests](#criando-pull-requests)
 - [Ferramentas Úteis no GitHub](#ferramentas-úteis-no-github)
-- [Contribuindo](#contribuindo)
-- [Licença](#licença)
+
 
 ## Introdução
 
